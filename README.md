@@ -15,3 +15,4 @@
 ## 友情链接：
 
 - [XSLM官方团队](https://www.luogu.com.cn/team/25191)
+- [猫国建设者团队](https://www.luogu.com.cn/team/23467)
