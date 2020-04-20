@@ -16,3 +16,6 @@
 
 - [XSLM官方团队](https://www.luogu.com.cn/team/25191)
 - [猫国建设者团队](https://www.luogu.com.cn/team/23467)
+
+## 其他：
+此网站已被访问![](http://www.hit-counts.com/counter.php?t=MTQ0Nzc3MA==)次
