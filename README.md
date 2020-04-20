@@ -14,4 +14,4 @@
 
 ## 友情链接：
 
-- 暂无（有意者联系Andysun06）
+- [XSLM官方团队](https://www.luogu.com.cn/team/25191)
