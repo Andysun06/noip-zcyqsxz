@@ -16,7 +16,6 @@
 
 - [XSLM官方团队](https://www.luogu.com.cn/team/25191)
 
-
 <style>
 .gc-comments {font-size: 12px;}
 </style>
