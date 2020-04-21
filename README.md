@@ -10,7 +10,8 @@
 
 ## 鸣谢：
 
-- 搭建者：Andysun06
+- 搭建者：@Andysun06
+- 题解提供者：@jijidawang
 
 ## 友情链接：
 
