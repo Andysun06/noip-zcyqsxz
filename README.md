@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|  [首页](https://andysun06.github.io/noip-zcyqsxz/)  |  [团队题目](https://andysun06.github.io/noip-zcyqsxz-tdtm/)  |  [团队比赛](https://andysun06.github.io/noip-zcyqsxz-tdbs/)  |  [官方通知](https://andysun06.github.io/noip-zcyqsxz-gftz/)  |ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ【  [首页](https://andysun06.github.io/noip-zcyqsxz/)  I  [团队题目](https://andysun06.github.io/noip-zcyqsxz-tdtm/)  I  [团队比赛](https://andysun06.github.io/noip-zcyqsxz-tdbs/)  I  [官方通知](https://andysun06.github.io/noip-zcyqsxz-gftz/)  】ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ## 关于此网站：
 
