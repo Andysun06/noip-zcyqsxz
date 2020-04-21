@@ -18,4 +18,7 @@
 - [猫国建设者团队](https://www.luogu.com.cn/team/23467)
 
 ## 其他：
-此网站已被访问![](http://www.hit-counts.com/counter.php?t=MTQ0Nzc3MA==)次
+- 团队QQ群：1051310092
+- 此网站已被访问![](http://www.hit-counts.com/counter.php?t=MTQ0Nzc3MA==)次
+
+<center>目前网站维护中，维护者：Andysun06</center>
